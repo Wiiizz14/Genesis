@@ -1,5 +1,5 @@
 # Genesis
-- Top down shooter game -
+- Top down shooter game
 
 
 - Moteur graphique : Unity 2019.3.5f1 - URP
