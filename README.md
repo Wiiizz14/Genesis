@@ -6,3 +6,5 @@
 - Développement : C# sous Visual Studio 2019
 - Modélisation : Blender 1.28
 - Design : Photoshop CC 2018, GIMP
+
+- Download : https://mega.nz/folder/Gx9BwKhA#YKKpTdgpgRK0A-TMEywigA
