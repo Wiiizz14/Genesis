@@ -2,10 +2,9 @@
 - Top down shooter game (First attempt)
 
 
-- Moteur graphique : Unity 2019.3.5f1 - URP
-- Développement : C# sous Visual Studio 2019
-- Modélisation : Blender 1.28
+- Graphics : Unity 2019.3.5f1 - URP
+- Programming : C# under Visual Studio 2019
+- Assets : Blender 1.28
 - Design : Photoshop CC 2018, GIMP
-- Pas de bande son pour le moment
+- No sounds
 
-- Download : https://mega.nz/folder/Gx9BwKhA#YKKpTdgpgRK0A-TMEywigA
